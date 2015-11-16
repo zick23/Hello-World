@@ -9,3 +9,4 @@
 * Progetto 3
 
 This is the search place [Google](http://www.google.it)
+![Gatto](http://www.greenstyle.it/wp-content/uploads/pets/2012/03/gatti-bellissimi.jpg)
